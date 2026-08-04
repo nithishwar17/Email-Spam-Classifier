@@ -12,7 +12,7 @@ from sklearn.svm import SVC
 import matplotlib.pyplot as plt
 import numpy as np
 
-# --- One-time NLTK Downloads ---
+
 # Run these two lines once to download the necessary NLTK data
 # nltk.download('stopwords')
 # nltk.download('wordnet')
